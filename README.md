@@ -8,5 +8,5 @@ Person two is : Alice
 Person three is : Daniel
 
 | Person | 1 | 2 | 3 |
-| :---: | :---: | :---: |
+| --- | --- | --- |
 | Dog name | Max | Buddy | Milo |
