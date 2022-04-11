@@ -7,6 +7,6 @@ Person one is : John
 Person two is : Alice
 Person three is : Daniel
 
-| Person | 1 | 2 | 3 |
-| --- | --- | --- |
+|  Person  |  1  |   2   |  3  |
+| -------- | --- | ----- | ---- |
 | Dog name | Max | Buddy | Milo |
