@@ -1,4 +1,4 @@
-# Have one information about 3 person by using social ntwork
+# Have one information about 3 person by using social network
 
 ## Example of the idea
 
